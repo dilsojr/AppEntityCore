@@ -17,8 +17,6 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcore
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -27,9 +25,7 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcore
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -82,3 +78,11 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcore
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.pdb
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.genruntimeconfig.cache
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll

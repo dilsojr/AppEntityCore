@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-DevIO.App-39DC35A9-AA4B-4A09-AA80-3A4DB0178D6C")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevIO.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]

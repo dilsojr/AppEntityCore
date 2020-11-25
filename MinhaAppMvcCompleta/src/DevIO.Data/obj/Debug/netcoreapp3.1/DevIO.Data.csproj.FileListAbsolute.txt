@@ -2,8 +2,14 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcor
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
