@@ -50,9 +50,6 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcore
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csprojAssemblyReference.cache
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csproj.CoreCompileInputs.cache
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
-D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cache
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.RazorAssemblyInfo.cache
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.RazorAssemblyInfo.cs
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.AssemblyInfoInputs.cache
