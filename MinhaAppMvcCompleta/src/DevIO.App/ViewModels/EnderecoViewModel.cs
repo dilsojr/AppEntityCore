@@ -1,11 +1,15 @@
-﻿using System;
+﻿using DevIO.Business.Models;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace DevIO.App.ViewModels
 {
     public class EnderecoViewModel
     {
-        public Guid FornecedorId { get; set; }
-
+        [Key]
+        public Guid Id { get; set; }
+        
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [StringLength(200, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         public string Logradouro { get; set; }
@@ -30,6 +34,9 @@ namespace DevIO.App.ViewModels
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [StringLength(50, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         public string Estado { get; set; }
-        public Fornecedor Fornecedor { get; set; }
+        
+        [HiddenInput]
+        public Guid FornecedorId { get; set; }
+
     }
 }
