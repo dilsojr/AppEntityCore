@@ -112,13 +112,13 @@ namespace DevIO.App.Controllers
         private async Task<ProdutoViewModel> ObterProduto(Guid id)
         {
             var produto = mapper.Map<ProdutoViewModel>(await produtoRepository.ObterProdutoFornecedor(id));
-            produto.FornecedorList = mapper.Map<IEnumerable<FornecedorViewModel>>(await fornecedorRepository.ObterTodos());
+            produto.Fornecedores = mapper.Map<IEnumerable<FornecedorViewModel>>(await fornecedorRepository.ObterTodos());
             return produto;
         }
 
         private async Task<ProdutoViewModel> PopularFornecedores(ProdutoViewModel produtoViewModel)
         {
-            produtoViewModel.FornecedorList = mapper.Map<IEnumerable<FornecedorViewModel>>(await fornecedorRepository.ObterTodos());
+            produtoViewModel.Fornecedores = mapper.Map<IEnumerable<FornecedorViewModel>>(await fornecedorRepository.ObterTodos());
             return produtoViewModel;
         }
 

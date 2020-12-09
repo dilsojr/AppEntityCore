@@ -193,3 +193,5 @@ D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcore
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
 D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
+D:\Dilso\repos\AppEntityCore\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\libman.json
